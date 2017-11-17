@@ -22,7 +22,7 @@
         <groupId>org.jboss.eap.quickstarts</groupId>
         <artifactId>quickstart-parent</artifactId>
         <version>7.1.0.Beta1-SNAPSHOT</version>
-        <relativePath>../pom.xml</relativePath>
+        <relativePath>../helloworld-ws/root/pom/pom.xml</relativePath>
     </parent>
     <artifactId>helloworld-ws</artifactId>
     <packaging>war</packaging>
